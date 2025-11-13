@@ -1,5 +1,4 @@
 # career-bot
-# career-bot
 Chatbot-Generative-AI
 
 # How to run?
